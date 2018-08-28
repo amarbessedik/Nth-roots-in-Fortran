@@ -1,0 +1,94 @@
+workstation@satellite-C75D-B:~/Desktop/FORTRAN$ ./sq_root 
+
+ COMPUTING THE SQUARE ROOT OF:    0.50
+
+ GUESS # 1 :     0.250000
+ GUESS # 2 :     1.125000
+ GUESS # 3 :     0.784722
+ GUESS # 4 :     0.710945
+ GUESS # 5 :     0.707117
+ GUESS # 6 :     0.707107
+
+ THE NUMBER OF GUESSES IS:    6
+ SQUARE ROOT OF     0.50 IS:     0.707107
+ ======================================================
+
+ COMPUTING THE SQUARE ROOT OF:    1.00
+
+ GUESS # 1 :     1.000000
+ GUESS # 2 :     1.000000
+ GUESS # 3 :     1.000000
+
+ THE NUMBER OF GUESSES IS:    3
+ SQUARE ROOT OF     1.00 IS:     1.000000
+ ======================================================
+
+ COMPUTING THE SQUARE ROOT OF:  100.00
+
+ GUESS # 1 :     1.000000
+ GUESS # 2 :    50.500000
+ GUESS # 3 :    26.240099
+ GUESS # 4 :    15.025530
+ GUESS # 5 :    10.840435
+ GUESS # 6 :    10.032578
+ GUESS # 7 :    10.000053
+ GUESS # 8 :    10.000000
+
+ THE NUMBER OF GUESSES IS:    8
+ SQUARE ROOT OF   100.00 IS:    10.000000
+ ======================================================
+
+ COMPUTING THE SQUARE ROOT OF:  150.00
+
+ GUESS # 1 :     1.000000
+ GUESS # 2 :    75.500000
+ GUESS # 3 :    38.743378
+ GUESS # 4 :    21.307503
+ GUESS # 5 :    14.173638
+ GUESS # 6 :    12.378332
+ GUESS # 7 :    12.248140
+ GUESS # 8 :    12.247449
+ GUESS # 9 :    12.247449
+
+ THE NUMBER OF GUESSES IS:    9
+ SQUARE ROOT OF   150.00 IS:    12.247449
+ ======================================================
+
+ COMPUTING THE SQUARE ROOT OF: 5000.00
+
+ GUESS # 1 :     1.000000
+ GUESS # 2 :  2500.500000
+ GUESS # 3 :  1251.249756
+ GUESS # 4 :   627.622864
+ GUESS # 5 :   317.794708
+ GUESS # 6 :   166.764069
+ GUESS # 7 :    98.373276
+ GUESS # 8 :    74.600044
+ GUESS # 9 :    70.812065
+ GUESS #10 :    70.710754
+ GUESS #11 :    70.710678
+
+ THE NUMBER OF GUESSES IS:   11
+ SQUARE ROOT OF  5000.00 IS:    70.710678
+ ======================================================
+
+ COMPUTING THE SQUARE ROOT OF:62632.52
+
+ GUESS # 1 :     1.000000
+ GUESS # 2 : 31316.759766
+ GUESS # 3 : 15659.379883
+ GUESS # 4 :  7831.689941
+ GUESS # 5 :  3919.843750
+ GUESS # 6 :  1967.911011
+ GUESS # 7 :   999.868958
+ GUESS # 8 :   531.254822
+ GUESS # 9 :   324.575134
+ GUESS #10 :   258.771423
+ GUESS #11 :   250.404724
+ GUESS #12 :   250.264938
+ GUESS #13 :   250.264893
+
+ THE NUMBER OF GUESSES IS:   13
+ SQUARE ROOT OF 62632.52 IS:   250.264893
+ ======================================================
+workstation@satellite-C75D-B:~/Desktop/FORTRAN$ 
